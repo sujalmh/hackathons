@@ -9,7 +9,7 @@ const Events = () => {
           eventTime: '18:00',
           location: 'University Hall',
           description: 'A gathering of all alumni for networking and fun.',
-          image: 'https://example.com/path-to-image.jpg',
+          image: 'https://github.com/sujalmh/hackathons/tree/main/Hacknight-24/frontend/public/alumni_meetup.png',
         },
         {
           eventName: 'Tech Expo 2024',
