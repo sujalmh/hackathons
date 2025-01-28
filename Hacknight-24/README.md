@@ -5,7 +5,9 @@ Educational institutions often struggle to fully leverage their alumni network t
 
 The Intelligent Alumni-Student Connection Platform enables structured interactions between students and alumni, helping students gain valuable industry knowledge, career advice, and professional insights. This solution also aims to support underrepresented groups by creating a supportive community for mutual growth and networking.
 
-![image](https://github.com/user-attachments/assets/0bc9d100-4e6c-4969-9e2a-5f6f6a5fed12)
+![home](https://github.com/user-attachments/assets/0bc9d100-4e6c-4969-9e2a-5f6f6a5fed12)
+![events](https://github.com/user-attachments/assets/39194b18-8cb5-4d8b-b339-f41872567d57)
+![chat](https://github.com/user-attachments/assets/4085b7af-f5a8-453d-a794-39b98f079c56)
 
 ---
 
